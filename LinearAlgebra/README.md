@@ -8,4 +8,4 @@
 * Calculate 2x2 eigenvalue, eigenvector
 * Language: C++
 <br>
-내가 생각해도 이건 진짜 못짰다..
+내가 생각해도 이건 진짜 못짰다..눈썩코드
